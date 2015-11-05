@@ -1,0 +1,6 @@
+# Folder Components
+# ========================
+node_modules/
+src/
+.sass-cache/
+test/

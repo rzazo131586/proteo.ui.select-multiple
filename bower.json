@@ -1,0 +1,12 @@
+{
+  "name": "proteo.ui.select-multiple",
+  "description": "Proteo | Multiples selects for choose Country & Community & City",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
