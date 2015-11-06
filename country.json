@@ -1,0 +1,2696 @@
+{
+    "Country": [
+        {
+            "alpha2Code": "AX",
+            "alpha3Code": "ALA",
+            "altSpellings": [
+                "AX",
+                "Aaland",
+                "Aland",
+                "Ahvenanmaa"
+            ],
+            "area": 1580,
+            "borders": [],
+            "callingCodes": [
+                "358"
+            ],
+            "capital": "Mariehamn",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Ålandish",
+            "gini": null,
+            "languages": [
+                "sv"
+            ],
+            "latlng": [
+                60.116667,
+                19.9
+            ],
+            "name": "Åland Islands",
+            "nativeName": "Åland",
+            "population": 28875,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Northern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".ax"
+            ],
+            "translations": {
+                "de": "Åland",
+                "es": "Alandia",
+                "fr": "Åland",
+                "it": "Isole Aland",
+                "ja": "オーランド諸島"
+            }
+        },
+        {
+            "alpha2Code": "AL",
+            "alpha3Code": "ALB",
+            "altSpellings": [
+                "AL",
+                "Shqipëri",
+                "Shqipëria",
+                "Shqipnia"
+            ],
+            "area": 28748,
+            "borders": [
+                "MNE",
+                "GRC",
+                "MKD",
+                "KOS"
+            ],
+            "callingCodes": [
+                "355"
+            ],
+            "capital": "Tirana",
+            "currencies": [
+                "ALL"
+            ],
+            "demonym": "Albanian",
+            "gini": 34.5,
+            "languages": [
+                "sq"
+            ],
+            "latlng": [
+                41,
+                20
+            ],
+            "name": "Albania",
+            "nativeName": "Shqipëria",
+            "population": 2893005,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".al"
+            ],
+            "translations": {
+                "de": "Albanien",
+                "es": "Albania",
+                "fr": "Albanie",
+                "it": "Albania",
+                "ja": "アルバニア"
+            }
+        },
+        {
+            "alpha2Code": "AD",
+            "alpha3Code": "AND",
+            "altSpellings": [
+                "AD",
+                "Principality of Andorra",
+                "Principat d'Andorra"
+            ],
+            "area": 468,
+            "borders": [
+                "FRA",
+                "ESP"
+            ],
+            "callingCodes": [
+                "376"
+            ],
+            "capital": "Andorra la Vella",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Andorran",
+            "gini": null,
+            "languages": [
+                "ca"
+            ],
+            "latlng": [
+                42.5,
+                1.5
+            ],
+            "name": "Andorra",
+            "nativeName": "Andorra",
+            "population": 76949,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".ad"
+            ],
+            "translations": {
+                "de": "Andorra",
+                "es": "Andorra",
+                "fr": "Andorre",
+                "it": "Andorra",
+                "ja": "アンドラ"
+            }
+        },
+        {
+            "alpha2Code": "AT",
+            "alpha3Code": "AUT",
+            "altSpellings": [
+                "AT",
+                "Österreich",
+                "Osterreich",
+                "Oesterreich"
+            ],
+            "area": 83871,
+            "borders": [
+                "CZE",
+                "DEU",
+                "HUN",
+                "ITA",
+                "LIE",
+                "SVK",
+                "SVN",
+                "CHE"
+            ],
+            "callingCodes": [
+                "43"
+            ],
+            "capital": "Vienna",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Austrian",
+            "gini": 26,
+            "languages": [
+                "de"
+            ],
+            "latlng": [
+                47.33333333,
+                13.33333333
+            ],
+            "name": "Austria",
+            "nativeName": "Österreich",
+            "population": 8602112,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".at"
+            ],
+            "translations": {
+                "de": "Österreich",
+                "es": "Austria",
+                "fr": "Autriche",
+                "it": "Austria",
+                "ja": "オーストリア"
+            }
+        },
+        {
+            "alpha2Code": "BY",
+            "alpha3Code": "BLR",
+            "altSpellings": [
+                "BY",
+                "Bielaruś",
+                "Republic of Belarus",
+                "Белоруссия",
+                "Республика Беларусь",
+                "Belorussiya",
+                "Respublika Belarus’"
+            ],
+            "area": 207600,
+            "borders": [
+                "LVA",
+                "LTU",
+                "POL",
+                "RUS",
+                "UKR"
+            ],
+            "callingCodes": [
+                "375"
+            ],
+            "capital": "Minsk",
+            "currencies": [
+                "BYR"
+            ],
+            "demonym": "Belarusian",
+            "gini": 26.5,
+            "languages": [
+                "be",
+                "ru"
+            ],
+            "latlng": [
+                53,
+                28
+            ],
+            "name": "Belarus",
+            "nativeName": "Белару́сь",
+            "population": 9485300,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+03:00"
+            ],
+            "topLevelDomain": [
+                ".by"
+            ],
+            "translations": {
+                "de": "Weißrussland",
+                "es": "Bielorrusia",
+                "fr": "Biélorussie",
+                "it": "Bielorussia",
+                "ja": "ベラルーシ"
+            }
+        },
+        {
+            "alpha2Code": "BE",
+            "alpha3Code": "BEL",
+            "altSpellings": [
+                "BE",
+                "België",
+                "Belgie",
+                "Belgien",
+                "Belgique",
+                "Kingdom of Belgium",
+                "Koninkrijk België",
+                "Royaume de Belgique",
+                "Königreich Belgien"
+            ],
+            "area": 30528,
+            "borders": [
+                "FRA",
+                "DEU",
+                "LUX",
+                "NLD"
+            ],
+            "callingCodes": [
+                "32"
+            ],
+            "capital": "Brussels",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Belgian",
+            "gini": 33,
+            "languages": [
+                "nl",
+                "fr",
+                "de"
+            ],
+            "latlng": [
+                50.83333333,
+                4
+            ],
+            "name": "Belgium",
+            "nativeName": "België",
+            "population": 11248330,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".be"
+            ],
+            "translations": {
+                "de": "Belgien",
+                "es": "Bélgica",
+                "fr": "Belgique",
+                "it": "Belgio",
+                "ja": "ベルギー"
+            }
+        },
+        {
+            "alpha2Code": "BA",
+            "alpha3Code": "BIH",
+            "altSpellings": [
+                "BA",
+                "Bosnia-Herzegovina",
+                "Босна и Херцеговина"
+            ],
+            "area": 51209,
+            "borders": [
+                "HRV",
+                "MNE",
+                "SRB"
+            ],
+            "callingCodes": [
+                "387"
+            ],
+            "capital": "Sarajevo",
+            "currencies": [
+                "BAM"
+            ],
+            "demonym": "Bosnian, Herzegovinian",
+            "gini": 36.2,
+            "languages": [
+                "bs",
+                "hr",
+                "sr"
+            ],
+            "latlng": [
+                44,
+                18
+            ],
+            "name": "Bosnia and Herzegovina",
+            "nativeName": "Bosna i Hercegovina",
+            "population": 3791622,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".ba"
+            ],
+            "translations": {
+                "de": "Bosnien und Herzegowina",
+                "es": "Bosnia y Herzegovina",
+                "fr": "Bosnie-Herzégovine",
+                "it": "Bosnia ed Erzegovina",
+                "ja": "ボスニア・ヘルツェゴビナ"
+            }
+        },
+        {
+            "alpha2Code": "BG",
+            "alpha3Code": "BGR",
+            "altSpellings": [
+                "BG",
+                "Republic of Bulgaria",
+                "Република България"
+            ],
+            "area": 110879,
+            "borders": [
+                "GRC",
+                "MKD",
+                "ROU",
+                "SRB",
+                "TUR"
+            ],
+            "callingCodes": [
+                "359"
+            ],
+            "capital": "Sofia",
+            "currencies": [
+                "BGN"
+            ],
+            "demonym": "Bulgarian",
+            "gini": 28.2,
+            "languages": [
+                "bg"
+            ],
+            "latlng": [
+                43,
+                25
+            ],
+            "name": "Bulgaria",
+            "nativeName": "България",
+            "population": 7202198,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".bg"
+            ],
+            "translations": {
+                "de": "Bulgarien",
+                "es": "Bulgaria",
+                "fr": "Bulgarie",
+                "it": "Bulgaria",
+                "ja": "ブルガリア"
+            }
+        },
+        {
+            "alpha2Code": "HR",
+            "alpha3Code": "HRV",
+            "altSpellings": [
+                "HR",
+                "Hrvatska",
+                "Republic of Croatia",
+                "Republika Hrvatska"
+            ],
+            "area": 56594,
+            "borders": [
+                "BIH",
+                "HUN",
+                "MNE",
+                "SRB",
+                "SVN"
+            ],
+            "callingCodes": [
+                "385"
+            ],
+            "capital": "Zagreb",
+            "currencies": [
+                "HRK"
+            ],
+            "demonym": "Croatian",
+            "gini": 33.7,
+            "languages": [
+                "hr"
+            ],
+            "latlng": [
+                45.16666666,
+                15.5
+            ],
+            "name": "Croatia",
+            "nativeName": "Hrvatska",
+            "population": 4246800,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".hr"
+            ],
+            "translations": {
+                "de": "Kroatien",
+                "es": "Croacia",
+                "fr": "Croatie",
+                "it": "Croazia",
+                "ja": "クロアチア"
+            }
+        },
+        {
+            "alpha2Code": "CY",
+            "alpha3Code": "CYP",
+            "altSpellings": [
+                "CY",
+                "Kýpros",
+                "Kıbrıs",
+                "Republic of Cyprus",
+                "Κυπριακή Δημοκρατία",
+                "Kıbrıs Cumhuriyeti"
+            ],
+            "area": 9251,
+            "borders": [
+                "GBR"
+            ],
+            "callingCodes": [
+                "357"
+            ],
+            "capital": "Nicosia",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Cypriot",
+            "gini": null,
+            "languages": [
+                "el",
+                "tr",
+                "hy"
+            ],
+            "latlng": [
+                35,
+                33
+            ],
+            "name": "Cyprus",
+            "nativeName": "Κύπρος",
+            "population": 858000,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".cy"
+            ],
+            "translations": {
+                "de": "Zypern",
+                "es": "Chipre",
+                "fr": "Chypre",
+                "it": "Cipro",
+                "ja": "キプロス"
+            }
+        },
+        {
+            "alpha2Code": "CZ",
+            "alpha3Code": "CZE",
+            "altSpellings": [
+                "CZ",
+                "Česká republika",
+                "Česko"
+            ],
+            "area": 78865,
+            "borders": [
+                "AUT",
+                "DEU",
+                "POL",
+                "SVK"
+            ],
+            "callingCodes": [
+                "420"
+            ],
+            "capital": "Prague",
+            "currencies": [
+                "CZK"
+            ],
+            "demonym": "Czech",
+            "gini": 26,
+            "languages": [
+                "cs",
+                "sk"
+            ],
+            "latlng": [
+                49.75,
+                15.5
+            ],
+            "name": "Czech Republic",
+            "nativeName": "Česká republika",
+            "population": 10537818,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".cz"
+            ],
+            "translations": {
+                "de": "Tschechische Republik",
+                "es": "República Checa",
+                "fr": "République tchèque",
+                "it": "Repubblica Ceca",
+                "ja": "チェコ"
+            }
+        },
+        {
+            "alpha2Code": "DK",
+            "alpha3Code": "DNK",
+            "altSpellings": [
+                "DK",
+                "Danmark",
+                "Kingdom of Denmark",
+                "Kongeriget Danmark"
+            ],
+            "area": 43094,
+            "borders": [
+                "DEU"
+            ],
+            "callingCodes": [
+                "45"
+            ],
+            "capital": "Copenhagen",
+            "currencies": [
+                "DKK"
+            ],
+            "demonym": "Danish",
+            "gini": 24,
+            "languages": [
+                "da"
+            ],
+            "latlng": [
+                56,
+                10
+            ],
+            "name": "Denmark",
+            "nativeName": "Danmark",
+            "population": 5678348,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC−04:00",
+                "UTC−03:00",
+                "UTC−01:00",
+                "UTC",
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".dk"
+            ],
+            "translations": {
+                "de": "Dänemark",
+                "es": "Dinamarca",
+                "fr": "Danemark",
+                "it": "Danimarca",
+                "ja": "デンマーク"
+            }
+        },
+        {
+            "alpha2Code": "EE",
+            "alpha3Code": "EST",
+            "altSpellings": [
+                "EE",
+                "Eesti",
+                "Republic of Estonia",
+                "Eesti Vabariik"
+            ],
+            "area": 45227,
+            "borders": [
+                "LVA",
+                "RUS"
+            ],
+            "callingCodes": [
+                "372"
+            ],
+            "capital": "Tallinn",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Estonian",
+            "gini": 36,
+            "languages": [
+                "et"
+            ],
+            "latlng": [
+                59,
+                26
+            ],
+            "name": "Estonia",
+            "nativeName": "Eesti",
+            "population": 1313271,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".ee"
+            ],
+            "translations": {
+                "de": "Estland",
+                "es": "Estonia",
+                "fr": "Estonie",
+                "it": "Estonia",
+                "ja": "エストニア"
+            }
+        },
+        {
+            "alpha2Code": "FO",
+            "alpha3Code": "FRO",
+            "altSpellings": [
+                "FO",
+                "Føroyar",
+                "Færøerne"
+            ],
+            "area": 1393,
+            "borders": [],
+            "callingCodes": [
+                "298"
+            ],
+            "capital": "Tórshavn",
+            "currencies": [
+                "DKK"
+            ],
+            "demonym": "Faroese",
+            "gini": null,
+            "languages": [
+                "fo"
+            ],
+            "latlng": [
+                62,
+                -7
+            ],
+            "name": "Faroe Islands",
+            "nativeName": "Føroyar",
+            "population": 48846,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Northern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".fo"
+            ],
+            "translations": {
+                "de": "Färöer-Inseln",
+                "es": "Islas Faroe",
+                "fr": "Îles Féroé",
+                "it": "Isole Far Oer",
+                "ja": "フェロー諸島"
+            }
+        },
+        {
+            "alpha2Code": "FI",
+            "alpha3Code": "FIN",
+            "altSpellings": [
+                "FI",
+                "Suomi",
+                "Republic of Finland",
+                "Suomen tasavalta",
+                "Republiken Finland"
+            ],
+            "area": 338424,
+            "borders": [
+                "NOR",
+                "SWE",
+                "RUS"
+            ],
+            "callingCodes": [
+                "358"
+            ],
+            "capital": "Helsinki",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Finnish",
+            "gini": 26.9,
+            "languages": [
+                "fi",
+                "sv"
+            ],
+            "latlng": [
+                64,
+                26
+            ],
+            "name": "Finland",
+            "nativeName": "Suomi",
+            "population": 5485215,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".fi"
+            ],
+            "translations": {
+                "de": "Finnland",
+                "es": "Finlandia",
+                "fr": "Finlande",
+                "it": "Finlandia",
+                "ja": "フィンランド"
+            }
+        },
+        {
+            "alpha2Code": "FR",
+            "alpha3Code": "FRA",
+            "altSpellings": [
+                "FR",
+                "French Republic",
+                "République française"
+            ],
+            "area": 640679,
+            "borders": [
+                "AND",
+                "BEL",
+                "DEU",
+                "ITA",
+                "LUX",
+                "MCO",
+                "ESP",
+                "CHE"
+            ],
+            "callingCodes": [
+                "33"
+            ],
+            "capital": "Paris",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "French",
+            "gini": 32.7,
+            "languages": [
+                "fr"
+            ],
+            "latlng": [
+                46,
+                2
+            ],
+            "name": "France",
+            "nativeName": "France",
+            "population": 66186000,
+            "region": "Europe",
+            "relevance": "2.5",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC−10:00",
+                "UTC−09:30",
+                "UTC−09:00",
+                "UTC−08:00",
+                "UTC−04:00",
+                "UTC−03:00",
+                "UTC+01:00",
+                "UTC+03:00",
+                "UTC+04:00",
+                "UTC+05:00",
+                "UTC+11:00",
+                "UTC+12:00"
+            ],
+            "topLevelDomain": [
+                ".fr"
+            ],
+            "translations": {
+                "de": "Frankreich",
+                "es": "Francia",
+                "fr": "France",
+                "it": "Francia",
+                "ja": "フランス"
+            }
+        },
+        {
+            "alpha2Code": "DE",
+            "alpha3Code": "DEU",
+            "altSpellings": [
+                "DE",
+                "Federal Republic of Germany",
+                "Bundesrepublik Deutschland"
+            ],
+            "area": 357114,
+            "borders": [
+                "AUT",
+                "BEL",
+                "CZE",
+                "DNK",
+                "FRA",
+                "LUX",
+                "NLD",
+                "POL",
+                "CHE"
+            ],
+            "callingCodes": [
+                "49"
+            ],
+            "capital": "Berlin",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "German",
+            "gini": 28.3,
+            "languages": [
+                "de"
+            ],
+            "latlng": [
+                51,
+                9
+            ],
+            "name": "Germany",
+            "nativeName": "Deutschland",
+            "population": 81083600,
+            "region": "Europe",
+            "relevance": "3",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".de"
+            ],
+            "translations": {
+                "de": "Deutschland",
+                "es": "Alemania",
+                "fr": "Allemagne",
+                "it": "Germania",
+                "ja": "ドイツ"
+            }
+        },
+        {
+            "alpha2Code": "GI",
+            "alpha3Code": "GIB",
+            "altSpellings": [
+                "GI"
+            ],
+            "area": 6,
+            "borders": [
+                "ESP"
+            ],
+            "callingCodes": [
+                "350"
+            ],
+            "capital": "Gibraltar",
+            "currencies": [
+                "GIP"
+            ],
+            "demonym": "Gibraltar",
+            "gini": null,
+            "languages": [
+                "en"
+            ],
+            "latlng": [
+                36.13333333,
+                -5.35
+            ],
+            "name": "Gibraltar",
+            "nativeName": "Gibraltar",
+            "population": 32734,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Southern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".gi"
+            ],
+            "translations": {
+                "de": "Gibraltar",
+                "es": "Gibraltar",
+                "fr": "Gibraltar",
+                "it": "Gibilterra",
+                "ja": "ジブラルタル"
+            }
+        },
+        {
+            "alpha2Code": "GR",
+            "alpha3Code": "GRC",
+            "altSpellings": [
+                "GR",
+                "Elláda",
+                "Hellenic Republic",
+                "Ελληνική Δημοκρατία"
+            ],
+            "area": 131990,
+            "borders": [
+                "ALB",
+                "BGR",
+                "TUR",
+                "MKD"
+            ],
+            "callingCodes": [
+                "30"
+            ],
+            "capital": "Athens",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Greek",
+            "gini": 34.3,
+            "languages": [
+                "el"
+            ],
+            "latlng": [
+                39,
+                22
+            ],
+            "name": "Greece",
+            "nativeName": "Ελλάδα",
+            "population": 10846979,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".gr"
+            ],
+            "translations": {
+                "de": "Griechenland",
+                "es": "Grecia",
+                "fr": "Grèce",
+                "it": "Grecia",
+                "ja": "ギリシャ"
+            }
+        },
+        {
+            "alpha2Code": "GG",
+            "alpha3Code": "GGY",
+            "altSpellings": [
+                "GG",
+                "Bailiwick of Guernsey",
+                "Bailliage de Guernesey"
+            ],
+            "area": 78,
+            "borders": [],
+            "callingCodes": [
+                "44"
+            ],
+            "capital": "St. Peter Port",
+            "currencies": [
+                "GBP"
+            ],
+            "demonym": "Channel Islander",
+            "gini": null,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "latlng": [
+                49.46666666,
+                -2.58333333
+            ],
+            "name": "Guernsey",
+            "nativeName": "Guernsey",
+            "population": 65150,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Northern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".gg"
+            ],
+            "translations": {
+                "de": "Guernsey",
+                "es": "Guernsey",
+                "fr": "Guernesey",
+                "it": "Guernsey",
+                "ja": "ガーンジー"
+            }
+        },
+        {
+            "alpha2Code": "HU",
+            "alpha3Code": "HUN",
+            "altSpellings": [
+                "HU"
+            ],
+            "area": 93028,
+            "borders": [
+                "AUT",
+                "HRV",
+                "ROU",
+                "SRB",
+                "SVK",
+                "SVN",
+                "UKR"
+            ],
+            "callingCodes": [
+                "36"
+            ],
+            "capital": "Budapest",
+            "currencies": [
+                "HUF"
+            ],
+            "demonym": "Hungarian",
+            "gini": 31.2,
+            "languages": [
+                "hu"
+            ],
+            "latlng": [
+                47,
+                20
+            ],
+            "name": "Hungary",
+            "nativeName": "Magyarország",
+            "population": 9849000,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".hu"
+            ],
+            "translations": {
+                "de": "Ungarn",
+                "es": "Hungría",
+                "fr": "Hongrie",
+                "it": "Ungheria",
+                "ja": "ハンガリー"
+            }
+        },
+        {
+            "alpha2Code": "IS",
+            "alpha3Code": "ISL",
+            "altSpellings": [
+                "IS",
+                "Island",
+                "Republic of Iceland",
+                "Lýðveldið Ísland"
+            ],
+            "area": 103000,
+            "borders": [],
+            "callingCodes": [
+                "354"
+            ],
+            "capital": "Reykjavik",
+            "currencies": [
+                "ISK"
+            ],
+            "demonym": "Icelander",
+            "gini": null,
+            "languages": [
+                "is"
+            ],
+            "latlng": [
+                65,
+                -18
+            ],
+            "name": "Iceland",
+            "nativeName": "Ísland",
+            "population": 330610,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC"
+            ],
+            "topLevelDomain": [
+                ".is"
+            ],
+            "translations": {
+                "de": "Island",
+                "es": "Islandia",
+                "fr": "Islande",
+                "it": "Islanda",
+                "ja": "アイスランド"
+            }
+        },
+        {
+            "alpha2Code": "IE",
+            "alpha3Code": "IRL",
+            "altSpellings": [
+                "IE",
+                "Éire",
+                "Republic of Ireland",
+                "Poblacht na hÉireann"
+            ],
+            "area": 70273,
+            "borders": [
+                "GBR"
+            ],
+            "callingCodes": [
+                "353"
+            ],
+            "capital": "Dublin",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Irish",
+            "gini": 34.3,
+            "languages": [
+                "ga",
+                "en"
+            ],
+            "latlng": [
+                53,
+                -8
+            ],
+            "name": "Republic of Ireland",
+            "nativeName": "Éire",
+            "population": 6378000,
+            "region": "Europe",
+            "relevance": "1.2",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC"
+            ],
+            "topLevelDomain": [
+                ".ie"
+            ],
+            "translations": {
+                "de": "Irland",
+                "es": "Irlanda",
+                "fr": "Irlande",
+                "it": "Irlanda",
+                "ja": "アイルランド"
+            }
+        },
+        {
+            "alpha2Code": "IM",
+            "alpha3Code": "IMN",
+            "altSpellings": [
+                "IM",
+                "Ellan Vannin",
+                "Mann",
+                "Mannin"
+            ],
+            "area": 572,
+            "borders": [],
+            "callingCodes": [
+                "44"
+            ],
+            "capital": "Douglas",
+            "currencies": [
+                "GBP"
+            ],
+            "demonym": "Manx",
+            "gini": null,
+            "languages": [
+                "en",
+                "gv"
+            ],
+            "latlng": [
+                54.25,
+                -4.5
+            ],
+            "name": "Isle of Man",
+            "nativeName": "Isle of Man",
+            "population": 84497,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Northern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".im"
+            ],
+            "translations": {
+                "de": "Insel Man",
+                "es": "Isla de Man",
+                "fr": "Île de Man",
+                "it": "Isola di Man",
+                "ja": "マン島"
+            }
+        },
+        {
+            "alpha2Code": "IT",
+            "alpha3Code": "ITA",
+            "altSpellings": [
+                "IT",
+                "Italian Republic",
+                "Repubblica italiana"
+            ],
+            "area": 301336,
+            "borders": [
+                "AUT",
+                "FRA",
+                "SMR",
+                "SVN",
+                "CHE",
+                "VAT"
+            ],
+            "callingCodes": [
+                "39"
+            ],
+            "capital": "Rome",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Italian",
+            "gini": 36,
+            "languages": [
+                "it"
+            ],
+            "latlng": [
+                42.83333333,
+                12.83333333
+            ],
+            "name": "Italy",
+            "nativeName": "Italia",
+            "population": 60753794,
+            "region": "Europe",
+            "relevance": "2",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".it"
+            ],
+            "translations": {
+                "de": "Italien",
+                "es": "Italia",
+                "fr": "Italie",
+                "it": "Italia",
+                "ja": "イタリア"
+            }
+        },
+        {
+            "alpha2Code": "JE",
+            "alpha3Code": "JEY",
+            "altSpellings": [
+                "JE",
+                "Bailiwick of Jersey",
+                "Bailliage de Jersey",
+                "Bailliage dé Jèrri"
+            ],
+            "area": 116,
+            "borders": [],
+            "callingCodes": [
+                "44"
+            ],
+            "capital": "Saint Helier",
+            "currencies": [
+                "GBP"
+            ],
+            "demonym": "Channel Islander",
+            "gini": null,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "latlng": [
+                49.25,
+                -2.16666666
+            ],
+            "name": "Jersey",
+            "nativeName": "Jersey",
+            "population": 99000,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Northern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".je"
+            ],
+            "translations": {
+                "de": "Jersey",
+                "es": "Jersey",
+                "fr": "Jersey",
+                "it": "Isola di Jersey",
+                "ja": "ジャージー"
+            }
+        },
+        {
+            "alpha2Code": "LV",
+            "alpha3Code": "LVA",
+            "altSpellings": [
+                "LV",
+                "Republic of Latvia",
+                "Latvijas Republika"
+            ],
+            "area": 64559,
+            "borders": [
+                "BLR",
+                "EST",
+                "LTU",
+                "RUS"
+            ],
+            "callingCodes": [
+                "371"
+            ],
+            "capital": "Riga",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Latvian",
+            "gini": 36.6,
+            "languages": [
+                "lv"
+            ],
+            "latlng": [
+                57,
+                25
+            ],
+            "name": "Latvia",
+            "nativeName": "Latvija",
+            "population": 1980700,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".lv"
+            ],
+            "translations": {
+                "de": "Lettland",
+                "es": "Letonia",
+                "fr": "Lettonie",
+                "it": "Lettonia",
+                "ja": "ラトビア"
+            }
+        },
+        {
+            "alpha2Code": "LI",
+            "alpha3Code": "LIE",
+            "altSpellings": [
+                "LI",
+                "Principality of Liechtenstein",
+                "Fürstentum Liechtenstein"
+            ],
+            "area": 160,
+            "borders": [
+                "AUT",
+                "CHE"
+            ],
+            "callingCodes": [
+                "423"
+            ],
+            "capital": "Vaduz",
+            "currencies": [
+                "CHF"
+            ],
+            "demonym": "Liechtensteiner",
+            "gini": null,
+            "languages": [
+                "de"
+            ],
+            "latlng": [
+                47.26666666,
+                9.53333333
+            ],
+            "name": "Liechtenstein",
+            "nativeName": "Liechtenstein",
+            "population": 37370,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".li"
+            ],
+            "translations": {
+                "de": "Liechtenstein",
+                "es": "Liechtenstein",
+                "fr": "Liechtenstein",
+                "it": "Liechtenstein",
+                "ja": "リヒテンシュタイン"
+            }
+        },
+        {
+            "alpha2Code": "LT",
+            "alpha3Code": "LTU",
+            "altSpellings": [
+                "LT",
+                "Republic of Lithuania",
+                "Lietuvos Respublika"
+            ],
+            "area": 65300,
+            "borders": [
+                "BLR",
+                "LVA",
+                "POL",
+                "RUS"
+            ],
+            "callingCodes": [
+                "370"
+            ],
+            "capital": "Vilnius",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Lithuanian",
+            "gini": 37.6,
+            "languages": [
+                "lt"
+            ],
+            "latlng": [
+                56,
+                24
+            ],
+            "name": "Lithuania",
+            "nativeName": "Lietuva",
+            "population": 2900787,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".lt"
+            ],
+            "translations": {
+                "de": "Litauen",
+                "es": "Lituania",
+                "fr": "Lituanie",
+                "it": "Lituania",
+                "ja": "リトアニア"
+            }
+        },
+        {
+            "alpha2Code": "LU",
+            "alpha3Code": "LUX",
+            "altSpellings": [
+                "LU",
+                "Grand Duchy of Luxembourg",
+                "Grand-Duché de Luxembourg",
+                "Großherzogtum Luxemburg",
+                "Groussherzogtum Lëtzebuerg"
+            ],
+            "area": 2586,
+            "borders": [
+                "BEL",
+                "FRA",
+                "DEU"
+            ],
+            "callingCodes": [
+                "352"
+            ],
+            "capital": "Luxembourg",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Luxembourger",
+            "gini": 30.8,
+            "languages": [
+                "fr",
+                "de",
+                "lb"
+            ],
+            "latlng": [
+                49.75,
+                6.16666666
+            ],
+            "name": "Luxembourg",
+            "nativeName": "Luxembourg",
+            "population": 562958,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".lu"
+            ],
+            "translations": {
+                "de": "Luxemburg",
+                "es": "Luxemburgo",
+                "fr": "Luxembourg",
+                "it": "Lussemburgo",
+                "ja": "ルクセンブルク"
+            }
+        },
+        {
+            "alpha2Code": "MK",
+            "alpha3Code": "MKD",
+            "altSpellings": [
+                "MK",
+                "Republic of Macedonia",
+                "Република Македонија"
+            ],
+            "area": 25713,
+            "borders": [
+                "ALB",
+                "BGR",
+                "GRC",
+                "KOS",
+                "SRB"
+            ],
+            "callingCodes": [
+                "389"
+            ],
+            "capital": "Skopje",
+            "currencies": [
+                "MKD"
+            ],
+            "demonym": "Macedonian",
+            "gini": 43.2,
+            "languages": [
+                "mk"
+            ],
+            "latlng": [
+                41.83333333,
+                22
+            ],
+            "name": "Republic of Macedonia",
+            "nativeName": "Македонија",
+            "population": 2058539,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".mk"
+            ],
+            "translations": {
+                "de": "Mazedonien",
+                "es": "Macedonia",
+                "fr": "Macédoine",
+                "it": "Macedonia",
+                "ja": "マケドニア旧ユーゴスラビア共和国"
+            }
+        },
+        {
+            "alpha2Code": "MT",
+            "alpha3Code": "MLT",
+            "altSpellings": [
+                "MT",
+                "Republic of Malta",
+                "Repubblika ta' Malta"
+            ],
+            "area": 316,
+            "borders": [],
+            "callingCodes": [
+                "356"
+            ],
+            "capital": "Valletta",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Maltese",
+            "gini": null,
+            "languages": [
+                "mt",
+                "en"
+            ],
+            "latlng": [
+                35.83333333,
+                14.58333333
+            ],
+            "name": "Malta",
+            "nativeName": "Malta",
+            "population": 445426,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".mt"
+            ],
+            "translations": {
+                "de": "Malta",
+                "es": "Malta",
+                "fr": "Malte",
+                "it": "Malta",
+                "ja": "マルタ"
+            }
+        },
+        {
+            "alpha2Code": "MD",
+            "alpha3Code": "MDA",
+            "altSpellings": [
+                "MD",
+                "Republic of Moldova",
+                "Republica Moldova"
+            ],
+            "area": 33846,
+            "borders": [
+                "ROU",
+                "UKR"
+            ],
+            "callingCodes": [
+                "373"
+            ],
+            "capital": "Chișinău",
+            "currencies": [
+                "MDL"
+            ],
+            "demonym": "Moldovan",
+            "gini": 33,
+            "languages": [
+                "ro"
+            ],
+            "latlng": [
+                47,
+                29
+            ],
+            "name": "Moldova",
+            "nativeName": "Moldova",
+            "population": 3555200,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".md"
+            ],
+            "translations": {
+                "de": "Moldawie",
+                "es": "Moldavia",
+                "fr": "Moldavie",
+                "it": "Moldavia",
+                "ja": "モルドバ共和国"
+            }
+        },
+        {
+            "alpha2Code": "MC",
+            "alpha3Code": "MCO",
+            "altSpellings": [
+                "MC",
+                "Principality of Monaco",
+                "Principauté de Monaco"
+            ],
+            "area": 2.02,
+            "borders": [
+                "FRA"
+            ],
+            "callingCodes": [
+                "377"
+            ],
+            "capital": "Monaco",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Monegasque",
+            "gini": null,
+            "languages": [
+                "fr"
+            ],
+            "latlng": [
+                43.73333333,
+                7.4
+            ],
+            "name": "Monaco",
+            "nativeName": "Monaco",
+            "population": 37800,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".mc"
+            ],
+            "translations": {
+                "de": "Monaco",
+                "es": "Mónaco",
+                "fr": "Monaco",
+                "it": "Principato di Monaco",
+                "ja": "モナコ"
+            }
+        },
+        {
+            "alpha2Code": "ME",
+            "alpha3Code": "MNE",
+            "altSpellings": [
+                "ME",
+                "Crna Gora"
+            ],
+            "area": 13812,
+            "borders": [
+                "ALB",
+                "BIH",
+                "HRV",
+                "KOS",
+                "SRB"
+            ],
+            "callingCodes": [
+                "382"
+            ],
+            "capital": "Podgorica",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Montenegrin",
+            "gini": 30,
+            "languages": [
+                "sr",
+                "bs",
+                "sq",
+                "hr"
+            ],
+            "latlng": [
+                42.5,
+                19.3
+            ],
+            "name": "Montenegro",
+            "nativeName": "Црна Гора",
+            "population": 621207,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".me"
+            ],
+            "translations": {
+                "de": "Montenegro",
+                "es": "Montenegro",
+                "fr": "Monténégro",
+                "it": "Montenegro",
+                "ja": "モンテネグロ"
+            }
+        },
+        {
+            "alpha2Code": "NL",
+            "alpha3Code": "NLD",
+            "altSpellings": [
+                "NL",
+                "Holland",
+                "Nederland"
+            ],
+            "area": 41850,
+            "borders": [
+                "BEL",
+                "DEU"
+            ],
+            "callingCodes": [
+                "31"
+            ],
+            "capital": "Amsterdam",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Dutch",
+            "gini": 30.9,
+            "languages": [
+                "nl"
+            ],
+            "latlng": [
+                52.5,
+                5.75
+            ],
+            "name": "Netherlands",
+            "nativeName": "Nederland",
+            "population": 16916000,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Western Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".nl"
+            ],
+            "translations": {
+                "de": "Niederlande",
+                "es": "Países Bajos",
+                "fr": "Pays-Bas",
+                "it": "Paesi Bassi",
+                "ja": "オランダ"
+            }
+        },
+        {
+            "alpha2Code": "NO",
+            "alpha3Code": "NOR",
+            "altSpellings": [
+                "NO",
+                "Norge",
+                "Noreg",
+                "Kingdom of Norway",
+                "Kongeriket Norge",
+                "Kongeriket Noreg"
+            ],
+            "area": 323802,
+            "borders": [
+                "FIN",
+                "SWE",
+                "RUS"
+            ],
+            "callingCodes": [
+                "47"
+            ],
+            "capital": "Oslo",
+            "currencies": [
+                "NOK"
+            ],
+            "demonym": "Norwegian",
+            "gini": 25.8,
+            "languages": [
+                "no",
+                "nb",
+                "nn"
+            ],
+            "latlng": [
+                62,
+                10
+            ],
+            "name": "Norway",
+            "nativeName": "Norge",
+            "population": 5176998,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".no"
+            ],
+            "translations": {
+                "de": "Norwegen",
+                "es": "Noruega",
+                "fr": "Norvège",
+                "it": "Norvegia",
+                "ja": "ノルウェー"
+            }
+        },
+        {
+            "alpha2Code": "PL",
+            "alpha3Code": "POL",
+            "altSpellings": [
+                "PL",
+                "Republic of Poland",
+                "Rzeczpospolita Polska"
+            ],
+            "area": 312679,
+            "borders": [
+                "BLR",
+                "CZE",
+                "DEU",
+                "LTU",
+                "RUS",
+                "SVK",
+                "UKR"
+            ],
+            "callingCodes": [
+                "48"
+            ],
+            "capital": "Warsaw",
+            "currencies": [
+                "PLN"
+            ],
+            "demonym": "Polish",
+            "gini": 34.1,
+            "languages": [
+                "pl"
+            ],
+            "latlng": [
+                52,
+                20
+            ],
+            "name": "Poland",
+            "nativeName": "Polska",
+            "population": 38484000,
+            "region": "Europe",
+            "relevance": "1.25",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".pl"
+            ],
+            "translations": {
+                "de": "Polen",
+                "es": "Polonia",
+                "fr": "Pologne",
+                "it": "Polonia",
+                "ja": "ポーランド"
+            }
+        },
+        {
+            "alpha2Code": "PT",
+            "alpha3Code": "PRT",
+            "altSpellings": [
+                "PT",
+                "Portuguesa",
+                "Portuguese Republic",
+                "República Portuguesa"
+            ],
+            "area": 92090,
+            "borders": [
+                "ESP"
+            ],
+            "callingCodes": [
+                "351"
+            ],
+            "capital": "Lisbon",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Portuguese",
+            "gini": 38.5,
+            "languages": [
+                "pt"
+            ],
+            "latlng": [
+                39.5,
+                -8
+            ],
+            "name": "Portugal",
+            "nativeName": "Portugal",
+            "population": 10374822,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC−01:00",
+                "UTC"
+            ],
+            "topLevelDomain": [
+                ".pt"
+            ],
+            "translations": {
+                "de": "Portugal",
+                "es": "Portugal",
+                "fr": "Portugal",
+                "it": "Portogallo",
+                "ja": "ポルトガル"
+            }
+        },
+        {
+            "alpha2Code": "XK",
+            "alpha3Code": "KOS",
+            "altSpellings": [
+                "XK",
+                "Република Косово"
+            ],
+            "area": 10908,
+            "borders": [
+                "ALB",
+                "MKD",
+                "MNE",
+                "SRB"
+            ],
+            "callingCodes": [
+                "383"
+            ],
+            "capital": "Pristina",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Kosovar",
+            "gini": null,
+            "languages": [
+                "sq",
+                "sr"
+            ],
+            "latlng": [
+                42.666667,
+                21.166667
+            ],
+            "name": "Republic of Kosovo",
+            "nativeName": "Republika e Kosovës",
+            "population": 1733842,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ""
+            ],
+            "translations": {
+                "de": null,
+                "es": "Kosovo",
+                "fr": null,
+                "it": null,
+                "ja": null
+            }
+        },
+        {
+            "alpha2Code": "RO",
+            "alpha3Code": "ROU",
+            "altSpellings": [
+                "RO",
+                "Rumania",
+                "Roumania",
+                "România"
+            ],
+            "area": 238391,
+            "borders": [
+                "BGR",
+                "HUN",
+                "MDA",
+                "SRB",
+                "UKR"
+            ],
+            "callingCodes": [
+                "40"
+            ],
+            "capital": "Bucharest",
+            "currencies": [
+                "RON"
+            ],
+            "demonym": "Romanian",
+            "gini": 30,
+            "languages": [
+                "ro"
+            ],
+            "latlng": [
+                46,
+                25
+            ],
+            "name": "Romania",
+            "nativeName": "România",
+            "population": 19942642,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".ro"
+            ],
+            "translations": {
+                "de": "Rumänien",
+                "es": "Rumania",
+                "fr": "Roumanie",
+                "it": "Romania",
+                "ja": "ルーマニア"
+            }
+        },
+        {
+            "alpha2Code": "RU",
+            "alpha3Code": "RUS",
+            "altSpellings": [
+                "RU",
+                "Rossiya",
+                "Russian Federation",
+                "Российская Федерация",
+                "Rossiyskaya Federatsiya"
+            ],
+            "area": 17124442,
+            "borders": [
+                "AZE",
+                "BLR",
+                "CHN",
+                "EST",
+                "FIN",
+                "GEO",
+                "KAZ",
+                "PRK",
+                "LVA",
+                "LTU",
+                "MNG",
+                "NOR",
+                "POL",
+                "UKR"
+            ],
+            "callingCodes": [
+                "7"
+            ],
+            "capital": "Moscow",
+            "currencies": [
+                "RUB"
+            ],
+            "demonym": "Russian",
+            "gini": 40.1,
+            "languages": [
+                "ru"
+            ],
+            "latlng": [
+                60,
+                100
+            ],
+            "name": "Russia",
+            "nativeName": "Россия",
+            "population": 146556330,
+            "region": "Europe",
+            "relevance": "2.5",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+03:00",
+                "UTC+04:00",
+                "UTC+06:00",
+                "UTC+07:00",
+                "UTC+08:00",
+                "UTC+09:00",
+                "UTC+10:00",
+                "UTC+11:00",
+                "UTC+12:00"
+            ],
+            "topLevelDomain": [
+                ".ru"
+            ],
+            "translations": {
+                "de": "Russland",
+                "es": "Rusia",
+                "fr": "Russie",
+                "it": "Russia",
+                "ja": "ロシア連邦"
+            }
+        },
+        {
+            "alpha2Code": "SM",
+            "alpha3Code": "SMR",
+            "altSpellings": [
+                "SM",
+                "Republic of San Marino",
+                "Repubblica di San Marino"
+            ],
+            "area": 61,
+            "borders": [
+                "ITA"
+            ],
+            "callingCodes": [
+                "378"
+            ],
+            "capital": "City of San Marino",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Sammarinese",
+            "gini": null,
+            "languages": [
+                "it"
+            ],
+            "latlng": [
+                43.76666666,
+                12.41666666
+            ],
+            "name": "San Marino",
+            "nativeName": "San Marino",
+            "population": 32831,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".sm"
+            ],
+            "translations": {
+                "de": "San Marino",
+                "es": "San Marino",
+                "fr": "Saint-Marin",
+                "it": "San Marino",
+                "ja": "サンマリノ"
+            }
+        },
+        {
+            "alpha2Code": "RS",
+            "alpha3Code": "SRB",
+            "altSpellings": [
+                "RS",
+                "Srbija",
+                "Republic of Serbia",
+                "Република Србија",
+                "Republika Srbija"
+            ],
+            "area": 88361,
+            "borders": [
+                "BIH",
+                "BGR",
+                "HRV",
+                "HUN",
+                "KOS",
+                "MKD",
+                "MNE",
+                "ROU"
+            ],
+            "callingCodes": [
+                "381"
+            ],
+            "capital": "Belgrade",
+            "currencies": [
+                "RSD"
+            ],
+            "demonym": "Serbian",
+            "gini": 27.8,
+            "languages": [
+                "sr"
+            ],
+            "latlng": [
+                44,
+                21
+            ],
+            "name": "Serbia",
+            "nativeName": "Србија",
+            "population": 7114393,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".rs"
+            ],
+            "translations": {
+                "de": "Serbien",
+                "es": "Serbia",
+                "fr": "Serbie",
+                "it": "Serbia",
+                "ja": "セルビア"
+            }
+        },
+        {
+            "alpha2Code": "SK",
+            "alpha3Code": "SVK",
+            "altSpellings": [
+                "SK",
+                "Slovak Republic",
+                "Slovenská republika"
+            ],
+            "area": 49037,
+            "borders": [
+                "AUT",
+                "CZE",
+                "HUN",
+                "POL",
+                "UKR"
+            ],
+            "callingCodes": [
+                "421"
+            ],
+            "capital": "Bratislava",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Slovak",
+            "gini": 26,
+            "languages": [
+                "sk"
+            ],
+            "latlng": [
+                48.66666666,
+                19.5
+            ],
+            "name": "Slovakia",
+            "nativeName": "Slovensko",
+            "population": 5421349,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".sk"
+            ],
+            "translations": {
+                "de": "Slowakei",
+                "es": "República Eslovaca",
+                "fr": "Slovaquie",
+                "it": "Slovacchia",
+                "ja": "スロバキア"
+            }
+        },
+        {
+            "alpha2Code": "SI",
+            "alpha3Code": "SVN",
+            "altSpellings": [
+                "SI",
+                "Republic of Slovenia",
+                "Republika Slovenija"
+            ],
+            "area": 20273,
+            "borders": [
+                "AUT",
+                "HRV",
+                "ITA",
+                "HUN"
+            ],
+            "callingCodes": [
+                "386"
+            ],
+            "capital": "Ljubljana",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Slovene",
+            "gini": 31.2,
+            "languages": [
+                "sl"
+            ],
+            "latlng": [
+                46.11666666,
+                14.81666666
+            ],
+            "name": "Slovenia",
+            "nativeName": "Slovenija",
+            "population": 2067683,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".si"
+            ],
+            "translations": {
+                "de": "Slowenien",
+                "es": "Eslovenia",
+                "fr": "Slovénie",
+                "it": "Slovenia",
+                "ja": "スロベニア"
+            }
+        },
+        {
+            "alpha2Code": "ES",
+            "alpha3Code": "ESP",
+            "altSpellings": [
+                "ES",
+                "Kingdom of Spain",
+                "Reino de España"
+            ],
+            "area": 505992,
+            "borders": [
+                "AND",
+                "FRA",
+                "GIB",
+                "PRT",
+                "MAR"
+            ],
+            "callingCodes": [
+                "34"
+            ],
+            "capital": "Madrid",
+            "currencies": [
+                "EUR"
+            ],
+            "demonym": "Spanish",
+            "gini": 34.7,
+            "languages": [
+                "es"
+            ],
+            "latlng": [
+                40,
+                -4
+            ],
+            "name": "Spain",
+            "nativeName": "España",
+            "population": 46439864,
+            "region": "Europe",
+            "relevance": "2",
+            "subregion": "Southern Europe",
+            "timezones": [
+                "UTC",
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".es"
+            ],
+            "translations": {
+                "de": "Spanien",
+                "es": "España",
+                "fr": "Espagne",
+                "it": "Spagna",
+                "ja": "スペイン"
+            }
+        },
+        {
+            "alpha2Code": "SJ",
+            "alpha3Code": "SJM",
+            "altSpellings": [
+                "SJ",
+                "Svalbard and Jan Mayen Islands"
+            ],
+            "area": null,
+            "borders": [],
+            "callingCodes": [
+                "4779"
+            ],
+            "capital": "Longyearbyen",
+            "currencies": [
+                "NOK"
+            ],
+            "demonym": "Norwegian",
+            "gini": null,
+            "languages": [
+                "no"
+            ],
+            "latlng": [
+                78,
+                20
+            ],
+            "name": "Svalbard and Jan Mayen",
+            "nativeName": "Svalbard og Jan Mayen",
+            "population": 2562,
+            "region": "Europe",
+            "relevance": "0.5",
+            "subregion": "Northern Europe",
+            "timezones": null,
+            "topLevelDomain": [
+                ".sj"
+            ],
+            "translations": {
+                "de": "Svalbard und Jan Mayen",
+                "es": "Islas Svalbard y Jan Mayen",
+                "fr": "Svalbard et Jan Mayen",
+                "it": "Svalbard e Jan Mayen",
+                "ja": "スヴァールバル諸島およびヤンマイエン島"
+            }
+        },
+        {
+            "alpha2Code": "SE",
+            "alpha3Code": "SWE",
+            "altSpellings": [
+                "SE",
+                "Kingdom of Sweden",
+                "Konungariket Sverige"
+            ],
+            "area": 450295,
+            "borders": [
+                "FIN",
+                "NOR"
+            ],
+            "callingCodes": [
+                "46"
+            ],
+            "capital": "Stockholm",
+            "currencies": [
+                "SEK"
+            ],
+            "demonym": "Swedish",
+            "gini": 25,
+            "languages": [
+                "sv"
+            ],
+            "latlng": [
+                62,
+                15
+            ],
+            "name": "Sweden",
+            "nativeName": "Sverige",
+            "population": 9793172,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".se"
+            ],
+            "translations": {
+                "de": "Schweden",
+                "es": "Suecia",
+                "fr": "Suède",
+                "it": "Svezia",
+                "ja": "スウェーデン"
+            }
+        },
+        {
+            "alpha2Code": "CH",
+            "alpha3Code": "CHE",
+            "altSpellings": [
+                "CH",
+                "Swiss Confederation",
+                "Schweiz",
+                "Suisse",
+                "Svizzera",
+                "Svizra"
+            ],
+            "area": 41284,
+            "borders": [
+                "AUT",
+                "FRA",
+                "ITA",
+                "LIE",
+                "DEU"
+            ],
+            "callingCodes": [
+                "41"
+            ],
+            "capital": "Bern",
+            "currencies": [
+                "CHE",
+                "CHF",
+                "CHW"
+            ],
+            "demonym": "Swiss",
+            "gini": 33.7,
+            "languages": [
+                "de",
+                "fr",
+                "it"
+            ],
+            "latlng": [
+                47,
+                8
+            ],
+            "name": "Switzerland",
+            "nativeName": "Schweiz",
+            "population": 8256000,
+            "region": "Europe",
+            "relevance": "1.5",
+            "subregion": "Western Europe",
+            "timezones": [
+                "UTC+01:00"
+            ],
+            "topLevelDomain": [
+                ".ch"
+            ],
+            "translations": {
+                "de": "Schweiz",
+                "es": "Suiza",
+                "fr": "Suisse",
+                "it": "Svizzera",
+                "ja": "スイス"
+            }
+        },
+        {
+            "alpha2Code": "UA",
+            "alpha3Code": "UKR",
+            "altSpellings": [
+                "UA",
+                "Ukrayina"
+            ],
+            "area": 603700,
+            "borders": [
+                "BLR",
+                "HUN",
+                "MDA",
+                "POL",
+                "ROU",
+                "RUS",
+                "SVK"
+            ],
+            "callingCodes": [
+                "380"
+            ],
+            "capital": "Kiev",
+            "currencies": [
+                "UAH"
+            ],
+            "demonym": "Ukrainian",
+            "gini": 26.4,
+            "languages": [
+                "uk"
+            ],
+            "latlng": [
+                49,
+                32
+            ],
+            "name": "Ukraine",
+            "nativeName": "Україна",
+            "population": 42836922,
+            "region": "Europe",
+            "relevance": "0",
+            "subregion": "Eastern Europe",
+            "timezones": [
+                "UTC+02:00"
+            ],
+            "topLevelDomain": [
+                ".ua"
+            ],
+            "translations": {
+                "de": "Ukraine",
+                "es": "Ucrania",
+                "fr": "Ukraine",
+                "it": "Ucraina",
+                "ja": "ウクライナ"
+            }
+        },
+        {
+            "alpha2Code": "GB",
+            "alpha3Code": "GBR",
+            "altSpellings": [
+                "GB",
+                "UK",
+                "Great Britain"
+            ],
+            "area": 242900,
+            "borders": [
+                "IRL"
+            ],
+            "callingCodes": [
+                "44"
+            ],
+            "capital": "London",
+            "currencies": [
+                "GBP"
+            ],
+            "demonym": "British",
+            "gini": 34,
+            "languages": [
+                "en"
+            ],
+            "latlng": [
+                54,
+                -2
+            ],
+            "name": "United Kingdom",
+            "nativeName": "United Kingdom",
+            "population": 64800000,
+            "region": "Europe",
+            "relevance": "2.5",
+            "subregion": "Northern Europe",
+            "timezones": [
+                "UTC−08:00",
+                "UTC−05:00",
+                "UTC−04:00",
+                "UTC−03:00",
+                "UTC−02:00",
+                "UTC",
+                "UTC+01:00",
+                "UTC+02:00",
+                "UTC+06:00"
+            ],
+            "topLevelDomain": [
+                ".uk"
+            ],
+            "translations": {
+                "de": "Vereinigtes Königreich",
+                "es": "Reino Unido",
+                "fr": "Royaume-Uni",
+                "it": "Regno Unito",
+                "ja": "イギリス"
+            }
+        }
+    ]
+}
